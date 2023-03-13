@@ -2,7 +2,7 @@ FROM python:3.8
 
 ENV PYTHONUNBUFFERED 1
 
-WORKDIR /home/ubuntu/backend/actions-runner/_work/Backend/Backend
+WORKDIR /home/ubuntu/Baibol-Bayel/actions-runner/_work/Baibol-Bayel/Baibol-Bayel
 
 COPY . .
 
